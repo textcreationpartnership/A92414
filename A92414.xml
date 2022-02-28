@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance and declaration of the knights, gentry, and commoners, within the respective counties of England, and Wales, touching the late writs of His Highness the Lord Protector for the chusing of a new Parliament. With the several arguments and observations, truly denoting and setting forth, the fundamental laws of the land, and the priviledges of the people, for the free election of their members, without being over-awed, or forced thereunto. And certain rules touching the government of a nation, prescribing a way of limitation for those in power, according to the law of God, the law of man, and the customs of a free born nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92414</idno>
+            <idno type="STC">Wing R963</idno>
+            <idno type="STC">Thomason E744_10</idno>
+            <idno type="STC">ESTC R3527</idno>
+            <idno type="EEBO-CITATION">99872406</idno>
+            <idno type="PROQUEST">99872406</idno>
+            <idno type="VID">166951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166951)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E744[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance and declaration of the knights, gentry, and commoners, within the respective counties of England, and Wales, touching the late writs of His Highness the Lord Protector for the chusing of a new Parliament. With the several arguments and observations, truly denoting and setting forth, the fundamental laws of the land, and the priviledges of the people, for the free election of their members, without being over-awed, or forced thereunto. And certain rules touching the government of a nation, prescribing a way of limitation for those in power, according to the law of God, the law of man, and the customs of a free born nation.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Wood,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166951:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE AND DECLARATION OF The Knights, Gentry, and Commoners, within the reſpective Counties of England, and Wales, touching the late Writs of His Highneſs the Lord Protector for the chu<g ref="char:EOLhyphen"/>ſing of a new Parliament.</p>
+            <p>With the ſeveral Arguments and Obſer<g ref="char:EOLhyphen"/>vations, truly denoting and ſetting forth, the fundamental Laws of the Land, and the privi<g ref="char:EOLhyphen"/>ledges of the people, for the free election of their Members, without being over-awed, or forced thereunto.</p>
+            <p>And certain Rules touching the Govern<g ref="char:EOLhyphen"/>ment of a Nation, preſcribing a way of limita<g ref="char:EOLhyphen"/>tion for thoſe in power, according to the Law of God, the Law of Man, and the Cuſtoms of a free born Nation.</p>
+            <p>Imprinted at <hi>London</hi> by <hi>Robert Wood,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166951:2"/>
+            <pb n="3" facs="tcp:166951:2"/>
+            <head>THE REMONSTRANCE <hi>OF</hi> England and Wales, Touching the free election and choice of the next Repreſentative, &amp;c.</head>
+            <p>WHereas upon the Writ and, Summons of his Highneſs the Lord Protector to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of each County throughout England and Wales, &amp;c. For the electing and chuſing of new members, for the next Repreſentative,
+<pb n="4" facs="tcp:166951:3"/>ſeveral Boroughs have had ſundry meetings about a free and lawful election; whoſe Debates, at laſt, produced theſe Obſervations and Arguments, to wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, That he which ruleth without Law, or he that liveth without Law, is not a god, but a Tyrant. In order whereunto, it was conceived expedient to declare and ſhew what was Law, and what was not Law; and thus they remonſtrate, That is Law which a people, Nation, City, or Commonwealth do in<g ref="char:EOLhyphen"/>tirely and unanimouſly conſent unto; not being forced or over-awed to conſent thereto. For, that is not law that is impoſed upon a people, when nei<g ref="char:EOLhyphen"/>ther they, nor thoſe deputed by their lawful electi<g ref="char:EOLhyphen"/>on, have given their conſent thereunto, without be<g ref="char:EOLhyphen"/>ing awed to ſuch conſent, or invited by expecting reward, or fearing, diſpleaſure if not conſenting. To evince and make this obvious, there needs no more then a reciting of what Sir Edw Cook report<g ref="char:EOLhyphen"/>eth of the ancient Cuſtom of England, which with<g ref="char:EOLhyphen"/>out queſtion was moſt commendable, wiſe, &amp; pru<g ref="char:EOLhyphen"/>dent, and ſo plain and evident, That by the ancient Law, and Cuſtom of the Parliament, Proclamation of old time uſed to be, the which ought to be pub<g ref="char:EOLhyphen"/>liſhed at Weſtminſter in the beginning of Parlia<g ref="char:EOLhyphen"/>ment, That no man, upon pain of loſing what he <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:166951:3"/>don, Weſtminſter, or the Suburbs thereof, wear any Coat of Armor, or privy Coat, or go a med; nor any Games or ſtrange Playes uſed, By reaſon that the High Court of Parliament ſhould not be there<g ref="char:EOLhyphen"/>by diſturbed, or the members thereof, which are to attend the buſineſs of the Commonwealth. And he further ſaith, That it was the cuſtom of the Parlia<g ref="char:EOLhyphen"/>ment, when any new device uſed to be moved in be<g ref="char:EOLhyphen"/>half of the King for his aid, or the like, the Comons might anſwer, That they tendered the Kings eſtate, and are ready to grant aid to the ſame, onely in this new advice they dare not agree without conference with their Countries. Whereby it appeareth, that ſuch conference is warrantable by the Law of the Land, and Cuſtom of Parliament. Indeed, this is ſo plain, it needs no expoſition, but rather commen<g ref="char:EOLhyphen"/>dation, being drawn by the curiouſeſt Pen that e<g ref="char:EOLhyphen"/>ver drew the lines of praiſe to prudence and Wiſ<g ref="char:EOLhyphen"/>dom. And theſe Cuſtoms being followed, would make any Nation or People under Heaven happy. Man is but a creature, and is to be limited and boun<g ref="char:EOLhyphen"/>ded by Reaſon and Laws. Hence many great rivers loſe themſelves, and become formidable, by the ſmalleſt creatures, for that they have ſwelled over their banks and bounds to ſeek new Channels, or would not be bounded by their banks.</p>
+            <pb n="6" facs="tcp:166951:4"/>
+            <p>It is the like with them in power, when they ſwel, and exceed the ordinary bounds, Law and Reaſon, then they become loſt, contemptible, weak, and the worſt of Crea<g ref="char:EOLhyphen"/>tures: for is it not as great an evil for thoſe that have power, to live above Law, or out of the reach of Law, as for thoſe that are not in power, to live or act contrary to Law, as diſobedient refractory evil doer? Nay, ſaith a learned Phyloſopher<g ref="char:punc">▪</g> Armed improbity (which is leudneſs and diſhone<g ref="char:EOLhyphen"/>ſty, as hy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocriſie, deceit, covenant breaking, Covetouſneſs ambition, and pride) is intole<g ref="char:EOLhyphen"/>rable. Indeed the Nature of man is ſuch when it is unlimited and many of thoſe, that have aymed at great power, have (whileſt they have been riſing) checked and limited their exorbitant Luſt, and have cloathed themſelves with piety: but after they have obtained ſuch power, then they have broke
+<pb n="7" facs="tcp:166951:4"/>forth; as Nero, who whileſt he was riſing, and til he had been ſeated in the Empire five years, reſtrained and limited himſelf, remo<g ref="char:EOLhyphen"/>ving all that might ſtand in his Way: the which being done, his luſt and cruelties broke forth. For at the firſt, he altogether avoided medling with publike affairs, and ſaluted the people with all due reſpect, as having in them the ſupream power: he wold not act or do in the Army any thing with<g ref="char:EOLhyphen"/>out a Councel of War: he admitted free addreſſes: he feaſted the people of Rome at a thouſand tables. Upon Auguſtus's death he ſeemed unwilling to take upon him the Empire (the which was notably reproved by one of the Senate, in that he refuſed the Name, but uſurped the Power.) He conti<g ref="char:EOLhyphen"/>nued in a gentle and orderly cariage, accept<g ref="char:EOLhyphen"/>ing onely the Title of Right Honorable, and would not be called Sacred; but inſtead
+<pb n="8" facs="tcp:166951:5"/>thereof, Laborious and painful ſervant of the Com<g ref="char:EOLhyphen"/>mon-wealth. If any called him Traytor or Uſurper, he would not have them proſecuted, nor that the Senate ſhould take notice thereof, to hinder the o<g ref="char:EOLhyphen"/>ther affairs of the Common-wealth. He made an O<g ref="char:EOLhyphen"/>ration in the Senate, to this effect, That a Prince is no other, nor ought to be no other then a ſervant to the people. But after he had ſetled the power in his own hands, he then made uſe of the ſouldiery to be the Keepers of the peace, and laid aſide the people; for he dealt cruelly with Kings, impriſoned the Commons, and put them to exceſſive charges. The way for a people therefore, to prevent the receiving of evil from abſolute Neroes, is, that limitations be upon thoſe that have power; and that is the way for a people to preſerve their liberties, priviledges, and immunities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
